@@ -1,0 +1,10 @@
+FoodItem - UPC Code: 01  Shelf life: 1  Name: Juice
+FoodItem - UPC Code: 02 Shelf life: 2 Name: Bread
+FoodItem - UPC Code: 03 Shelf life: 3  Name: Gin
+Warehouse - LAX
+Warehouse - SLC
+Warehouse - PDX
+Start date: 01/01/2010
+Receive: 01 5 LAX
+Next day:
+End

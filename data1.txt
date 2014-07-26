@@ -1,0 +1,11 @@
+FoodItem - UPC Code: 0353264991  Shelf life: 2  Name: chestnut puree with vanilla
+FoodItem - UPC Code: 0984523912  Shelf life: 1  Name: the orange box
+Warehouse - Columbus
+Warehouse - Toledo
+Start date: 05/01/2010
+Receive: 0984523912 2 Toledo
+Receive: 0984523912 2 Columbus
+Next day:
+Receive: 0353264991 2 Toledo
+Receive: 0353264991 2 Columbus
+End
